@@ -1,32 +1,31 @@
 # Aulas do curso em Vídeo
 Repositório para armazenar todo aprendizado das aulas do Curso em Vídeo do Prof. Gustavo Guanabara
 
-• SQL
+### • SQL
 
-​         ○ História do SQL
+    ○ História do SQL
 
-​          ○ Criação do banco de dados
+    ○ Criação do banco de dados
 
-​          ○ Inserindo Dados na Tabela (INSERT INTO)
+    ○ Inserindo Dados na Tabela (INSERT INTO)
 
-​          ○ Alteração de Estrutura da Tabela (ALTER TABLE e DROP TABLE)
+    ○ Alteração de Estrutura da Tabela (ALTER TABLE e DROP TABLE)
 
-​          ○ Manipulação de Linhas (UPDATE, DELETE E TRUNCATE)
+    ○ Manipulação de Linhas (UPDATE, DELETE E TRUNCATE)
 
-​          ○ Gerenciamento de Cópias de Segurança MySQL
+    ○ Gerenciamento de Cópias de Segurança MySQL
 
-​          ○ PHPMyAdmin
+    ○ PHPMyAdmin
 
-​          ○ Comandos SELECT
+    ○ Comandos SELECT
 
-​          ○ Modelo Relacional
+    ○ Modelo Relacional
 
-​          ○ Chaves Estrangeiras
+    ○ Chaves Estrangeiras
 
-​          ○ JOIN e INNER JOIN
+    ○ JOIN e INNER JOIN
 
-​      
 
-• Java básico
+### • Java básico
 
-​         ○ História do Java
+    ○ História do Java
