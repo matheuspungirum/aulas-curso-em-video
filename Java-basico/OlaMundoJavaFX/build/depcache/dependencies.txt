@@ -1,0 +1,17 @@
+||:olamundojavafx.FXMLDocumentController
+java.io.PrintStream
+javafx.fxml.Initializable
+javafx.scene.control.Label
+olamundojavafx.FXMLDocumentController
+java.lang.System
+java.lang.Object
+||:olamundojavafx.OlaMundoJavaFX
+javafx.application.Application
+javafx.scene.Parent
+javafx.scene.Scene
+javafx.stage.Stage
+olamundojavafx.OlaMundoJavaFX
+javafx.fxml.FXMLLoader
+java.lang.Object
+java.lang.Class
+java.lang.Exception
